@@ -1,7 +1,7 @@
-🎓 Unitasks
+##🎓 Unitasks
 Sistema simples de gerenciamento de tarefas desenvolvido como projeto universitário, com foco em prática de HTML, CSS e JavaScript.
 
-🧠 Objetivo
+##🧠 Objetivo
 Criar um sistema de tarefas básico onde o usuário pode:
 
 Fazer login
